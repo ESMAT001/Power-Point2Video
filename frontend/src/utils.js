@@ -2,8 +2,8 @@
 const apiBaseUrl = 'http://localhost:3001/';
 
 const credentials = {
-    useId: 'DgrQcTxqfYOMadsfqi6ERlALeT63',
-    secretKey: '6beb7bf3f64e4840a1f438bb9270627b'
+    useId: 'BsRoRf3TrkhsGlxVjjszX22Feml1',
+    secretKey: 'fc4f544ba0434d648578702b27414daa'
 }
 
 const textToSpeechApiBaseUrl = 'https://play.ht/api/v1/'
